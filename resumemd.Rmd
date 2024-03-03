@@ -1,0 +1,83 @@
+---
+title: "Resume"
+author: "Emily Brown"
+date: "2024-03-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#CONTACT INFORMATION
+
+817-247-1628     	   evb5209@gmail.com 		
+Permanent address: 5209 Brownstone Dr, Flower Mound, TX, 75028
+Local address: 2569 W Orlando Dr, Fayetteville, AR, 72701
+
+
+
+#EDUCATION 
+
+University of Arkansas			        August 2019- May 2023
+
+Major: Bachelor of Science: Biology 	                     
+Minor: Statistics			     
+GPA: 3.578
+
+
+University of Arkansas                August 2023-current
+MS in Bioanalytics
+
+
+
+#GOALS
+
+Acquire skills in research and data analysis so that I can go
+further into the field of bioinformatics. 
+
+
+
+#HONORS/SCHOLARSHIPS
+
+Honors College Student						            	Fall 2019-May 2023
+
+Non-Resident tuition award:                     Fall 2019-May 2023
+  90% off the difference in tuition 
+  between in state and out of state      			 
+						
+Honors College Research Grant:                  Spring 2023
+$2000 for one semester for a research project
+								                                 
+
+Teaching assistantship:                          Fall 2023-current
+Waived tuition as well as 15k a year 
+for being a teaching assistant for 
+a biology lab. 									                    
+
+
+
+#SKILLS
+
+Have been able to work independently and as a team on research, knowledge of R programming system, knowledge of GitHub, Knowledge of Linux, retail experience, inventory experience
+
+
+
+#EXPERIENCE
+
+Uniform manager: 						Fall 2020-Spring 2022
+
+Paid position for the University of Arkansas Marching band. Took inventory and managed distribution of uniforms. 	
+					
+					
+Office Depot cashier: 						Summer 2021
+
+Worked register and restocked shelves at Office Depot. 
+										
+
+Apple blossom research						Spring 2022
+	
+Assisted Dr. Westerman, Dr. Joshi and graduate students Sushant Portdar 
+and My Lee in their research regarding apple blossoms and nocturnal 
+pollinators. Set up cameras, trapped insects, did transect walks, 
+and Sampled flowers for RNA sequencing. 
